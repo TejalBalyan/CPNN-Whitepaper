@@ -1,1 +1,1 @@
-# CPNN-Whitepaper
+This repository contains code for CPNN implementation
